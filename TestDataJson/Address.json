@@ -1,0 +1,29 @@
+{
+  "Permanent_Address": {
+    "House_Number": "string",
+    "City": "string",
+    "State": "string",
+    "Country": "string",
+    "PhoneNumber": [
+      {
+        "Std_Code": "string",
+        "Home": "string",
+        "Mobile": "string"
+      }
+    ]
+  },
+  "Current_Address": {
+    "House_Number": "string",
+    "City": "string",
+    "State": "string",
+    "Country": "string",
+    "PhoneNumber": [
+      {
+        "Std_Code": "string",
+        "Home": "string",
+        "Mobile": "string"
+      }
+    ]
+  },
+  "stId": "79871"
+}
